@@ -1,0 +1,10 @@
+Описание задания:
+1. Исходные данные — статистика выступлений игроков.(https://github.com/netology-code/ds3-spring-2018/blob/master/0.%20Preparatory%20week/0.2%20Python%20for%20DS/Homework/teams_stats.csv)
+
+Вам необходимо посчитать количество уникальных названий команд (столбец 'Tm') в разбивке по годам. Для подсчета уникальных элементов можно воспользоваться методом nunique().
+
+ 
+
+2. Исходные данные — файл со статистикой горных вершин(https://github.com/netology-code/ds3-spring-2018/blob/master/0.%20Preparatory%20week/0.2%20Python%20for%20DS/Homework/Mountains.csv). В столбце Parent Mountain указан хребет, к которому принадлежит гора.
+
+Вам необходимо с помощью Pandas посчитать количество упоминаний каждого хребта в столбце Parent Mountain, но только если это количество больше 3.
